@@ -1,4 +1,4 @@
-package com.github.ronaldoblanc.bots.api;
+package com.github.ronaldoblanc.bauer.api;
 
 /**
  * The filename could not be found or access is denied.
