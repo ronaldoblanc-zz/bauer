@@ -7,8 +7,7 @@ import java.io.IOException;
  * Very useful in loops that generates data for different outputs.<br/>
  * You must call <code>newWritter()</code> method, before writes data out.<br/>
  * 
- * @author rocharo
- *
+ * @author Ronaldo Blanc <ronaldoblanc at gmail.com>
  */
 public interface MultiDataWriter {
 

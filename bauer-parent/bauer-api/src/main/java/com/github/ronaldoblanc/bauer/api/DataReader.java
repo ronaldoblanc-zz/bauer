@@ -11,8 +11,7 @@ import java.util.Map;
  * The resulting <code>Map</code> has the <code>Enum</code> field name as the
  * key and the correlated data on the input file as the value.
  * 
- * @author rocharo
- *
+ * @author Ronaldo Blanc <ronaldoblanc at gmail.com>
  */
 public interface DataReader {
 

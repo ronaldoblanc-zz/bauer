@@ -1,5 +1,8 @@
 package com.github.ronaldoblanc.bauer.api;
 
+/**
+ * @author Ronaldo Blanc <ronaldoblanc at gmail.com>
+ */
 public interface Notification {
 
 	String getEventMessage(); // The message and other desired info

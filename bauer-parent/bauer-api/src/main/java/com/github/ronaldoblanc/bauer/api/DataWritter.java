@@ -5,8 +5,7 @@ import java.io.IOException;
 /**
  * Writes out data.
  * 
- * @author rocharo
- *
+ * @author Ronaldo Blanc <ronaldoblanc at gmail.com>
  */
 public interface DataWritter {
 

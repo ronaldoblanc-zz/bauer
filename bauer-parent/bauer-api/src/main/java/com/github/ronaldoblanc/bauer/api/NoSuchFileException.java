@@ -3,8 +3,7 @@ package com.github.ronaldoblanc.bauer.api;
 /**
  * The filename could not be found or access is denied.
  * 
- * @author rocharo
- * @since 2014-07-03
+ * @author Ronaldo Blanc <ronaldoblanc at gmail.com>
  */
 public class NoSuchFileException extends Exception {
 
