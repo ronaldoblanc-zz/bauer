@@ -9,8 +9,8 @@
 	</parent>
 	<artifactId>bauer-client-parent</artifactId>
 	<packaging>pom</packaging>
-	<name>bauer-client-parent</name>
-	<url>http://maven.apache.org</url>
+	<name>Bauer Client Parent</name>
+	<url>http://github.com/ronaldoblanc/bauer/</url>
 	<modules>
 		<module>bauer-client-cli</module>
 		<module>bauer-client-gui</module>
