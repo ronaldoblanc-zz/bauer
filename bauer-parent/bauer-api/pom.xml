@@ -9,6 +9,6 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>bauer-api</artifactId>
-	<name>Bots API</name>
-	<url>http://maven.apache.org</url>
+	<name>Bauer API</name>
+	<url>http://github.com/ronaldoblanc/bauer/</url>
 </project>
