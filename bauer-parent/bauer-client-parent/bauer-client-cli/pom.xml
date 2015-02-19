@@ -9,8 +9,8 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>bauer-client-cli</artifactId>
-	<name>bauer-client-cli</name>
-	<url>http://maven.apache.org</url>
+	<name>Bauer Client CLI</name>
+	<url>http://github.com/ronaldoblanc/bauer/</url>
 	<dependencies>
 		<dependency>
 			<groupId>com.github.ronaldoblanc.bauer</groupId>
