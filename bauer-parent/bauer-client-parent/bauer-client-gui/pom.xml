@@ -9,6 +9,6 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>bauer-client-gui</artifactId>
-	<name>bauer-client-gui</name>
-	<url>http://maven.apache.org</url>
+	<name>Bauer Client GUI</name>
+	<url>http://github.com/ronaldoblanc/bauer/</url>
 </project>
